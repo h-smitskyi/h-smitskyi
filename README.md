@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Hlib Smitskyi 👋
 
-<!--
-**h-smitskyi/h-smitskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Algorithm & Backend Specialist
 
-Here are some ideas to get you started:
+I build high-performance systems with a focus on mathematical correctness and memory efficiency. I enjoy solving complex algorithmic challenges and developing low-level firmware for embedded systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠 **Core Stack:** C++ (STL, Optimization), Python, Embedded C.
+- 🎯 **Expertise:** Persistent Data Structures, Graph Theory, Computational Geometry.
+- 📟 **Hardware:** Arduino, ESP32, STM32 (PlatformIO).
+
+---
+
+### Featured Project: [Algorithmic Solutions](https://github.com/h-smitskyi/Algorithmic-Solutions)
+A collection of high-difficulty algorithmic implementations (2-11% acceptance rates), featuring:
+- **Persistent DSU & Time-Travel Logic:** Versioned graph state management.
+- **XOR-Hashing for Graphs:** Dynamic connectivity in $O(1)$ query time.
+- **Arena Memory Allocation:** Custom pooling for extreme data loads.
+
+---
+📫 **Connect with me:** [Djinni Profile Link] | [LinkedIn/Telegram]
