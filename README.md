@@ -17,4 +17,4 @@ A collection of high-difficulty algorithmic implementations (2-11% acceptance ra
 - **Arena Memory Allocation:** Custom pooling for extreme data loads.
 
 ---
-📫 **Connect with me:** [Djinni Profile Link] | [@HssLNtF-Telegram]
+📫 **Connect with me:** [[Djinni Profile Link](http://djinni.co/q/90dd219eeb/)] | [@HssLNtF-Telegram]
